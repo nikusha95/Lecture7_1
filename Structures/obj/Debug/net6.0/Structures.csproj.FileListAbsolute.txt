@@ -1,0 +1,15 @@
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/bin/Debug/net6.0/Structures
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/bin/Debug/net6.0/Structures.deps.json
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/bin/Debug/net6.0/Structures.runtimeconfig.json
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/bin/Debug/net6.0/Structures.dll
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/bin/Debug/net6.0/Structures.pdb
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.csproj.AssemblyReference.cache
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.AssemblyInfoInputs.cache
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.AssemblyInfo.cs
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.csproj.CoreCompileInputs.cache
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.dll
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/refint/Structures.dll
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.pdb
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/Structures.genruntimeconfig.cache
+/Users/nikolozisanaia/Projects/Lecture7_1/Structures/obj/Debug/net6.0/ref/Structures.dll
